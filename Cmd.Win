@@ -1,0 +1,2 @@
+Start-Process cmd -ArgumentList "/c echo hi & pause" -NoNewWindow
+#Test..
