@@ -1,2 +1,2 @@
-Start-Process cmd -ArgumentList "/c echo hi & pause" -NoNewWindow
-#Test..
+#random test code lol
+[System.Windows.MessageBox]::Show('Hello')
