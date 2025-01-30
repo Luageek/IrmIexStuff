@@ -1,1 +1,2 @@
-Start-Process cmd
+Start-Process cmd -ArgumentList "/k title meme & color 0D & echo Why would you run code from an online source?"
+#more testing
